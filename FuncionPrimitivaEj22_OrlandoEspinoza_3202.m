@@ -31,5 +31,5 @@ g = bar(xa,yab,'histc');
 hold on
 plot(x2,y2);
 %Nombre de la grafica. 
-title("Ejericicio 22");
+title("Ejercicio 22");
 axis tight
