@@ -1,10 +1,10 @@
 % Octave Script
-% Title			:Funcion Primitiva ej19.
-% Description		:Script para desarrrollar el ejericio19 de la actividad Funcion Primitiva.
+% Title			:Funcion Primitiva ej18.
+% Description		:Script para desarrrollar el ejericio18 de la actividad Funcion Primitiva.
 % Author		:Orlando Espinoza Valentin (Orlando-Esp) espinozaorlando978@gmail.com
 % Date			:20210520
 % sion		        :1
-% Usage			:octave> /path/Sumas de Riemann,FuncionPrimitivaEj19_OrlandoEspinoza_3202.m
+% Usage			:octave> /path/Sumas de Riemann,FuncionPrimitivaEj18_OrlandoEspinoza_3202.m
 % Notes			:Requiere aplicacion octave-online usar en consola preferentemente. 
 %program execution page :https://octave-online.net
 
